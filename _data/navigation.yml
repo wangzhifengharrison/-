@@ -4,19 +4,19 @@ main:
     url: "/zhifeng.wang/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/zhifeng.wang/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/zhifeng.wang/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/zhifeng.wang/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/zhifeng.wang/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/zhifeng.wang/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/zhifeng.wang/#-internships"
