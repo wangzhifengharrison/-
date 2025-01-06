@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/zhifeng.wang/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/zhifeng.wang/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/zhifeng.wang/#-honors-and-awards"
 
   - title: "Educations"
     url: "/zhifeng.wang/#-educations"
@@ -18,5 +18,5 @@ main:
   - title: "Invited Talks"
     url: "/zhifeng.wang/#-invited-talks"
 
-  - title: "Internships"
-    url: "/zhifeng.wang/#-internships"
+  # - title: "Internships"
+  #   url: "/zhifeng.wang/#-internships"
